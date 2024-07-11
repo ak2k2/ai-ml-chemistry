@@ -1,4 +1,4 @@
-# Machine Learning In Chemsitry: Armaan Kapoor
+# Machine Learning In Chemistry: Armaan Kapoor
 ## Instructor: Dean Ruben Savizky
 
 ### Week 1-2: iPython Notebooks, Statistics, and the Wine Quality Dataset: 
